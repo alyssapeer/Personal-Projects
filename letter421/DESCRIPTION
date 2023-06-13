@@ -1,9 +1,9 @@
 Package: letter421
 Type: Package
-Title: What the package does (short line)
+Title: Random Letter Generator
 Version: 1.0
 Date: 2023-06-13
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Alyssa Peer
+Maintainer: Who to complain to <apeer@luc.edu>
+Description: The purpose of this function is to return a randomly chosen letter of the alphabet to the user. 
+License: NA
