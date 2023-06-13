@@ -2,10 +2,11 @@
 \alias{rletter}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~function to do ... ~~
+Randomly Generate a Letter From the English Alphabet
 }
 \description{
-%%  ~~ A concise (1-5 lines) description of what the function does. ~~
+rletter return a randomly 
+chosen letter of the alphabet to the user. 
 }
 \usage{
 rletter()
@@ -25,7 +26,7 @@ rletter()
 %% ~put references to the literature/web site here ~
 }
 \author{
-%%  ~~who you are~~
+Alyssa Peer
 }
 \note{
 %%  ~~further notes~~
