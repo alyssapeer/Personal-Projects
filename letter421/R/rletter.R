@@ -1,5 +1,5 @@
 rletter <-
-function(){
+function(i){
   
   # Create vector of all letters
   letters <- c("A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z")
@@ -14,3 +14,4 @@ function(){
   return(r)
   
 }
+rletter()
